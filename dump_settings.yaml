@@ -18,6 +18,8 @@ HTTP_PROXY: false
 LINK:
 - link: https://blog.tutuxka.eu.org/social/link/
   theme: butterfly
+- link: https://www.fomal.cc/social/link/
+  theme: butterfly
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
